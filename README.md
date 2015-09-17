@@ -1,3 +1,3 @@
 Summary
 =======
-Sample webapp using the playframework
+Sample webapp using the playframework.
